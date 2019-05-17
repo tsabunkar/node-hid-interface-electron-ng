@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 // declare var require: any
 
-const electron = require('electron');
-const { ipcRenderer } = electron;
+// const electron =  require('electron');
+// const { ipcRenderer } = electron;
 
-// import { ipcRenderer } from 'electron';
+import { ipcRenderer } from 'electron';
 
 @Component({
   selector: 'app-root',
