@@ -29,6 +29,7 @@
     "@angular/router": "~7.2.0",
     "@types/electron": "^1.6.10",
     "core-js": "^2.5.4",
+    "ngx-electron": "^2.1.1",
     "node-hid": "^0.7.8",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
